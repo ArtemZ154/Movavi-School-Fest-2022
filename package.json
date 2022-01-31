@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2",
+    "jquery": "^3.6.0",
+    "node": "^17.4.0",
+    "nunjucks": "^3.2.3",
+    "sqlite3": "^5.0.2",
+    "vue": "^2.6.14"
+  }
+}
